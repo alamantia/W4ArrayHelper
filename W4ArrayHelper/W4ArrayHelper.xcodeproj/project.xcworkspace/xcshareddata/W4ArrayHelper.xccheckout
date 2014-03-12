@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>680EF182-1310-4B57-A634-A46C5F72F43D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>W4ArrayHelper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>577E6B1D-469D-47B7-996D-D2294A1B3B01</key>
+		<string>https://github.com/w4ffles/W4ArrayHelper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>W4ArrayHelper/W4ArrayHelper.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>577E6B1D-469D-47B7-996D-D2294A1B3B01</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/w4ffles/W4ArrayHelper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>577E6B1D-469D-47B7-996D-D2294A1B3B01</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>577E6B1D-469D-47B7-996D-D2294A1B3B01</string>
+			<key>IDESourceControlWCCName</key>
+			<string>W4ArrayHelper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
